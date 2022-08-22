@@ -1,4 +1,4 @@
-# React Higher Order Components
+# React Higher Order Components (HOC)
 1. It is also known as HOC. In React, HOC is an advanced technique for reusing component logic. It is a function that takes a component and returns a new component.
 2. HOC component: hoc > WithLoading.tsx
     > This component returns orginal component with loading messages.
